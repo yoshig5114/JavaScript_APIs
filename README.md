@@ -14,7 +14,7 @@ If you do have not a Giphy Developer account, visit [developers.giphy.com](https
 
 ## Steps
 
-The JavaScript Promises exercise has multiple steps:
+The JavaScript Fetch API exercise has multiple steps:
 
 - [Exercise 1: Inspect and Select Elements](#exercise-1-inspect-and-select-elements)
 - [Exercise 2: Use the Fetch API](#exercise-2-use-the-fetch-api)
